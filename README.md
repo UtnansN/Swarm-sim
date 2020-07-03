@@ -1,3 +1,3 @@
 # Swarm-sim
 
-A WebGL build of my Bachelors Unity project
+An altered WebGL build of my Bachelors Unity project
